@@ -18,7 +18,7 @@ namespace Day9_PracticeProblem.Tests
             int[] arr = { 7, 5, 4, 7, 94, 1, 11 };
             int soldForOnce = 5;
             int soldMoreThanOnce = 7;
-            // int[] expected = { soldForOnce, soldMoreThanOnce };
+           
 
             //Act
             PriceList priceList = new PriceList();
