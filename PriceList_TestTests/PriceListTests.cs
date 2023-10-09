@@ -15,7 +15,7 @@ namespace Day9_PracticeProblem.Tests
         public void PriceList()
         {
             //Arrange
-            int[] arr = { 7, 5, 4, 7, 94, 1, 11 };
+            int[] arr = { 5, 7, 1, 8, 24, 11, 6 };
             int soldForOnce = 5;
             int soldMoreThanOnce = 7;
            
