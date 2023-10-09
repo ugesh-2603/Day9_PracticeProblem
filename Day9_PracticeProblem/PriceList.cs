@@ -10,7 +10,7 @@ namespace Day9_PracticeProblem
     {
         public int[] PriceListForSoldItem()
         {
-            int[] arr = { 7, 5, 4, 7, 94, 1, 11 };
+            int[] arr = { 5, 7, 1, 8, 24, 11, 6 };
             int len = arr.Length;
             int soldForOnce = 0;
             int soldMoreThanOnce = 0;
