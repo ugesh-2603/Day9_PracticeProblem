@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap_Competition_Test", "Swap_Competition_Test\Swap_Competition_Test.csproj", "{31C219C1-8625-4D0F-B347-D60B9B4A42C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap_Competition_TestTests", "Swap_Competition_TestTests\Swap_Competition_TestTests.csproj", "{B62CAE81-B9A1-4F63-A70C-D634C1B22B2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C219C1-8625-4D0F-B347-D60B9B4A42C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C219C1-8625-4D0F-B347-D60B9B4A42C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C219C1-8625-4D0F-B347-D60B9B4A42C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C219C1-8625-4D0F-B347-D60B9B4A42C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62CAE81-B9A1-4F63-A70C-D634C1B22B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62CAE81-B9A1-4F63-A70C-D634C1B22B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62CAE81-B9A1-4F63-A70C-D634C1B22B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62CAE81-B9A1-4F63-A70C-D634C1B22B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02E04945-18F7-4464-A327-34C781213AC1}
+	EndGlobalSection
+EndGlobal
